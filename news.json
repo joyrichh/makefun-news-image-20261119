@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-19",
+  "day": "Thursday",
+  "stories": [
+    {
+      "tag": "ENTERTAINMENT",
+      "headline": "GTA VI begins global rollout as gamers enter Vice City",
+      "summary": "After 13 years, Rockstar's blockbuster unlocks at midnight in each market, starting in New Zealand, to rave early reviews.",
+      "color": "#B42318"
+    },
+    {
+      "tag": "DIPLOMACY",
+      "headline": "Trump, Xi and Putin meet in Shenzhen in first three-way summit",
+      "summary": "The leaders of the U.S., China and Russia sit down together for the first time, with nuclear arms, Iran and Ukraine on the table.",
+      "color": "#1D4ED8"
+    },
+    {
+      "tag": "UKRAINE",
+      "headline": "Crimean Bridge hit a third time this week, traffic halted",
+      "summary": "Russia's installed governor in Crimea said the bridge was attacked again; damage is being assessed, days after its road span collapsed.",
+      "color": "#0F766E"
+    },
+    {
+      "tag": "CULTURE",
+      "headline": "Van Gogh sells for record $190.4m after Nazi-era row settled",
+      "summary": "Blossoming Chestnut Trees smashed the artist's auction record at Sotheby's, a day after a deal with the Fischer heirs.",
+      "color": "#6D28D9"
+    },
+    {
+      "tag": "TECH",
+      "headline": "Anthropic raises $81.3bn in biggest IPO of all time",
+      "summary": "Shares priced at $83 value the Claude maker at about $1.5tn; it starts trading on the Nasdaq on Thursday as ANT.",
+      "color": "#15803D"
+    },
+    {
+      "tag": "JUSTICE",
+      "headline": "World court delivers Myanmar genocide verdict today",
+      "summary": "The ICJ rules in The Gambia's case over the 2017 crackdown that drove 700,000+ Rohingya to Bangladesh.",
+      "color": "#475569"
+    }
+  ],
+  "also_today": [
+    "EU proposes a €45bn Ukraine loan, repayable only once Russia pays reparations.",
+    "Israeli tanks cross Gaza's Yellow Line in a rare ground operation; Hamas calls it a ceasefire breach.",
+    "Democrats nominate Hakeem Jeffries, 251-11, set to be the first Black House Speaker."
+  ],
+  "sources": ["Reuters", "AP", "NASA", "Pew Research Center"],
+  "note": "Real world news of 19 November 2026, verified 19 Nov 2026 against Reuters, AP, NASA and Pew Research Center reporting."
+}
